@@ -1,4 +1,3 @@
-This is just a simple script that delivers the names and sizes of the custom maps currently run on an Urban Terror server for download manager.
+This is just a simple PHP script that delivers the names and sizes of custom maps currently in cycles on an Urban Terror server as XML. Intended for the use with download managers; created for Bleilust and tested in cooperation with Ziller's Map Manager.
 
-Created in cooperation with Ziller for his Map Manager.
 
